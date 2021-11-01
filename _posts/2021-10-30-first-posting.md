@@ -1,12 +1,19 @@
 ---
 layout:	single
 title: "블로그를 생성했습니다."
-categories: blog
-tag: [blog]
+description: "블로그의 첫 포스팅입니다."
+categories: Blog
+tag: [Blog]
 toc: true
+author_profile: false
+sidebar:
+    nav: "docs"
+search: false
+permalink: /daily_life/
 ---
 
-## 블로그의 첫 포스팅입니다!
+## 블로그의 첫 포스팅입니다!  
+
 안녕하세요~  
 devxmonica입니다.  
 블로그의 첫 포스팅입니다.  

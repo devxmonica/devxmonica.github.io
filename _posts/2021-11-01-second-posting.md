@@ -1,0 +1,49 @@
+---
+layout:	single
+title: "HTML/CSS/JS"
+categories: HTML/CSS
+tag: [STUDY, HTML/CSS]
+toc: true
+author_profile: false
+sidebar:
+    nav: "docs"
+search: true
+permalink: /html_css/
+---
+
+# 웹 개발의 기본
+
+## HTML
+웹 문서의 뼈대를 만드는 HTML
+
+HTML (HyperText, Markup, Language)  
+태그 중심으로 웹 브라우저가 해석한다.  
+
+### HTML의 기본 구조
+<!DOCTYPE html>로 시작하여 <html>, <head>, <body>라는 3개의 영역으로 구성되어 있다.
+1. <!DOCTYPE html>  
+현재 문서가 HTML5 언어로 작성한 웹 문서라는 뜻
+2. 〈html〉~〈/html〉  
+웹 문서의 시작과 끝을 나타내는 태그
+3. 〈head〉~〈/head〉   
+웹 브라우저가 웹 문서를 해석하는데 필요한 정보를 입력하는 부분
+4. 〈body〉~〈/body〉  
+실제로 웹 브라우저 화면에 나타나는 내용
+
+## CSS
+웹 문서를 꾸미는 CSS
+
+HTML로 만든 내용을 알아보기 쉽게 꾸미거나 사용하기 편리하도록 배치할 때 사용한다.  
+디바이스에 따라 화면이 자동으로 바뀌는 반응형 웹 디자인을 만들려면 CSS를 공부해야 한다.
+
+### 스타일 형식
+선택자 { 속성1: 속성값1; 속성2 : 속성값2;}  
+
+### 내부 스타일 시트
+ 〈head〉안에서 정의하고, 〈style〉**여기에 작성**〈/style〉
+
+### 외부 스타일 시트 
+〈link rel="stylesheet" href="외부 스타일 시트 파일 경로"〉
+
+## JavaScript
+동적인 효과를 사용하려면 자바스크립트가 필요하다.
