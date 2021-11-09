@@ -7,17 +7,17 @@ main:
   - title: "Search"
     url: /search/
 
-docs:
-  - title: "Blog"
-    children:
-      - title: "Daily Life"
-        url: /daily_life/
-  - title: "Study"
-    children:
-      - title: "HTML/CSS"
-        url: /html_css/
-      - title: "JAVA"
-        url: /java/
+# docs:
+#   - title: "Blog"
+#     children:
+#       - title: "Daily Life"
+#         url: /daily_life/
+#   - title: "Study"
+#     children:
+#       - title: "HTML/CSS"
+#         url: /html_css/
+#       - title: "JAVA"
+#         url: /java/
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
